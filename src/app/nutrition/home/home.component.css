@@ -1,0 +1,247 @@
+#home {
+  background-color: #6246e4;
+  height: 70vh;
+}
+#phone {
+  width: 40%;
+  float: right;
+  margin-top: 0%;
+}
+#con {
+  float: left;
+  margin-left: 80px;
+  color: white;
+  font-size: 3vh;
+  margin-top: 50px;
+}
+#conn {
+  float: left;
+  margin-left: 60px;
+  color: white;
+  font-size: 3vh;
+}
+#cone {
+  margin-left: 3px;
+  color: rgba(255, 255, 255, 0.63);
+  font-size: 3vh;
+  height: 3px;
+}
+#comp { 
+  text-align: center;
+}
+#pp {
+  color: rgba(19, 18, 18, 0.63);
+  text-align: center;
+  font-size: 3vh;
+}
+
+.card-image {
+  height: 150px;
+  margin-bottom: 15px;
+  background-size: cover;
+}
+
+.car-l {
+  background-image: url("/PHONE.jpg");
+}
+
+.car-2 {
+  background-image: url("/PHONE.jpg");
+}
+
+.car-3 {
+  background-image: url("/PHONE.jpg");
+}
+.card {
+  background-color:   white;
+  width: 5%;
+  border-radius: rounded;
+  border: none;
+}
+.card-group {
+  width: 60%;
+  margin-left: 400px;
+}
+#srt{
+  margin-left: 600px;
+width: 40%;
+}
+#img {
+  margin-top: 10px;
+  width: 40%;
+  text-align: center;
+  margin-left: auto;
+  margin-right:auto ;
+  display: flex;
+}
+#imgg {
+  /* margin-left: 40px; */
+  margin-top: 10px;
+  width: 60%;
+ 
+}
+#groupe{
+  background-color: #eef7f6;
+  width: 20%;
+  height: 20vh;
+}
+.card-title{
+  text-align: center;
+}
+#imge {
+  width: 10%;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+#quel {
+  margin-right: 300px;
+  font-size: 2vh;
+  text-align: center;
+  color: black;
+}
+#btn{
+  background-color: #6246E4;
+  color: white;
+  margin-left: 80px;
+  margin-top: 20px;
+  overflow: hidden;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  width: 40%;
+}
+#btn1{
+  background-color: #6246E4;
+  color: white;
+  /* margin-left: 90px; */
+  margin-top: 10px;
+  overflow: hidden;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  width: 45%;
+}
+#btn2{
+  background-color: #63BFB2;
+  color: white;
+  overflow: hidden;
+  -webkit-border-radius: 10px;
+  -moz-border-radius:10px;
+  border-radius: 10px;
+
+}
+#commence{
+  background-color: #ffffff;
+  color: rgb(27, 27, 27);
+  margin-top: 10px;
+  overflow: hidden;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  width: 150px;
+
+}
+
+#btn3{
+  background-color: #6246E4;
+  color: white;
+  overflow: hidden;
+  -webkit-border-radius: 10px;
+  -moz-border-radius:10px;
+  border-radius: 10px;
+
+}
+#aa{
+  color: #6246e4;
+  text-decoration: none;
+}
+#groupee{
+  background-color: #F7F7F7;
+  height: 70VH;
+}
+#altt{
+  width: 50%;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+#jgpp{
+  width: 200%;
+  margin-right: 800px;
+}
+#achat{
+  margin-right: 620px;
+  
+}
+#grouppe{
+  background-color: #F7F7F7;
+  margin-left: 500px;
+  margin-right: 1000;
+  width:50%;
+  height: 30vh;
+}
+#groupppe{
+  background-color: #eef7f6;
+  height: 40vh;
+   margin-left: 100px;
+  margin-right: 100px;
+  
+}
+#bon{
+  width: 30%;
+  margin-right: 500px;
+  margin-top: 40px;
+}
+#bone{
+  width: 40%;
+  /* margin-right: 200px; */
+  margin-top: 40px;
+  margin-left: 90px;
+}
+
+#cad{
+  margin-left: 50px;
+}
+#store{
+  width: 30%;
+  height: 7vh;
+  margin-left: 600px;
+}
+#store1{
+  width: 30%;
+  height: 7vh;
+}
+
+#pop{
+  margin-right: 100px;
+}
+#tel{
+  text-align: center;
+}
+@media (max-width: 1500px) {}
+@media (max-width: 1024px) {}
+@media (max-width: 991) {}
+@media (max-width: 640px) {}
+@media (max-width: 400px) {}
+@media (max-width: 451px) {}
+@media (max-width: 407px) {}
+@media (max-width: 498px) {}
+@media (max-width: 490px) {}
+@media (max-width: 500px) {}
+@media (max-width: 516px) {}
+@media (max-width: 533px) {}
+@media (max-width: 539px) {}
+@media (max-width: 542px) {}
+@media (max-width: 636px) {}
+@media (max-width: 659px) {}
+@media (max-width: 690px) {}
+@media (max-width: 716px) {}
+@media (max-width: 747px) {}
+@media (max-width: 739px) {}
+@media (max-width: 742px) {}
+@media (max-width: 713px) {}
+@media (max-width: 547px) {}
+@media (max-width: 550px) {}
+@media (max-width: 750px) {}
+@media (max-width: 800px) {}
+@media (max-width: 805px) {}
+@media (max-width: 689px) {}
